@@ -31,7 +31,7 @@ namespace ConsoleApp23
             string year3 = Console.ReadLine();
             Console.WriteLine("Enter group 3");
             string group3 = Console.ReadLine();
-            Console.WriteLine(a + "\n" + $"Human Resources Deportive \n" + a + "\n" + $" author" + " |  " + $"title" + "|" + $" year " + "|" + $"group" + "|\n" + a + "\n");
+            Console.WriteLine(a + "\n" + $"library directory\n" + a + "\n" + $" author" + " |  " + $"title" + "|" + $" year " + "|" + $"group" + "|\n" + a + "\n");
             Console.WriteLine($"{author,-10}" + "|" + $"{title,-10}" + " |  " + $"{year,-10}" + "|" + $"{group,-10}" + "|\n" + a);
             Console.WriteLine($"{author2,-10}" + "|" + $"{title2,-10}" + " |  " + $"{year2,-10}" + "|" + $"{group2,-10}" + "|\n" + a);
             Console.WriteLine($"{author3,-10}" + "|" + $"{title3,-10}" + " |  " + $"{year3,-10}" + "|" + $"{group3,-10}" + "|\n" + a);
